@@ -49,5 +49,5 @@ un efecto visual atractivo.
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/CrisQF/Challengue_amigo_secreto.git
    ```
